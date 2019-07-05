@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 40da50aef043c6140bc25b6366455868
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Box005
+    100012: Box008
+    100014: Box009
+    100016: Box010
+    100018: Box011
+    100020: Box012
+    100022: Cylinder001
+    100024: Cylinder002
+    100026: Cylinder003
+    100028: Cylinder004
+    100030: Cylinder005
+    100032: Cylinder006
+    100034: Cylinder007
+    100036: Cylinder008
+    100038: Cylinder009
+    100040: Cylinder010
+    100042: Cylinder011
+    100044: Cylinder012
+    100046: PhotometricLight001
+    100048: PhotometricLight002
+    100050: PhotometricLight003
+    100052: PhotometricLight004
+    100054: PhotometricLight005
+    100056: PhotometricLight006
+    100058: PhotometricLight007
+    100060: PhotometricLight008
+    100062: PhotometricLight009
+    100064: PhotometricLight010
+    100066: PhotometricLight011
+    100068: PhotometricLight012
+    100070: PhotometricLight013
+    100072: PhotometricLight014
+    100074: PhotometricLight015
+    100076: PhotometricLight016
+    100078: Plane001
+    100080: SpiralStair001
+    100082: Tube001
+    100084: Tube002
+    100086: Tube003
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Box005
+    400012: Box008
+    400014: Box009
+    400016: Box010
+    400018: Box011
+    400020: Box012
+    400022: Cylinder001
+    400024: Cylinder002
+    400026: Cylinder003
+    400028: Cylinder004
+    400030: Cylinder005
+    400032: Cylinder006
+    400034: Cylinder007
+    400036: Cylinder008
+    400038: Cylinder009
+    400040: Cylinder010
+    400042: Cylinder011
+    400044: Cylinder012
+    400046: PhotometricLight001
+    400048: PhotometricLight002
+    400050: PhotometricLight003
+    400052: PhotometricLight004
+    400054: PhotometricLight005
+    400056: PhotometricLight006
+    400058: PhotometricLight007
+    400060: PhotometricLight008
+    400062: PhotometricLight009
+    400064: PhotometricLight010
+    400066: PhotometricLight011
+    400068: PhotometricLight012
+    400070: PhotometricLight013
+    400072: PhotometricLight014
+    400074: PhotometricLight015
+    400076: PhotometricLight016
+    400078: Plane001
+    400080: SpiralStair001
+    400082: Tube001
+    400084: Tube002
+    400086: Tube003
+    2100000: 'Material #13'
+    2100002: 02 - Default
+    2100004: 05 - Default
+    2100006: 01 - Default
+    2100008: 03 - Default
+    2100010: 'Material #4883'
+    2100012: No Name
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box008
+    2300012: Box009
+    2300014: Box010
+    2300016: Box011
+    2300018: Box012
+    2300020: Cylinder001
+    2300022: Cylinder002
+    2300024: Cylinder003
+    2300026: Cylinder004
+    2300028: Cylinder005
+    2300030: Cylinder006
+    2300032: Cylinder007
+    2300034: Cylinder008
+    2300036: Cylinder009
+    2300038: Cylinder010
+    2300040: Cylinder011
+    2300042: Cylinder012
+    2300044: Plane001
+    2300046: SpiralStair001
+    2300048: Tube001
+    2300050: Tube002
+    2300052: Tube003
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box008
+    3300012: Box009
+    3300014: Box010
+    3300016: Box011
+    3300018: Box012
+    3300020: Cylinder001
+    3300022: Cylinder002
+    3300024: Cylinder003
+    3300026: Cylinder004
+    3300028: Cylinder005
+    3300030: Cylinder006
+    3300032: Cylinder007
+    3300034: Cylinder008
+    3300036: Cylinder009
+    3300038: Cylinder010
+    3300040: Cylinder011
+    3300042: Cylinder012
+    3300044: Plane001
+    3300046: SpiralStair001
+    3300048: Tube001
+    3300050: Tube002
+    3300052: Tube003
+    4300000: Plane001
+    4300002: Box001
+    4300004: Box002
+    4300006: Box003
+    4300008: Box004
+    4300010: Tube001
+    4300012: SpiralStair001
+    4300014: Box005
+    4300016: Box008
+    4300018: Box009
+    4300020: Box010
+    4300022: Box011
+    4300024: Cylinder001
+    4300026: Cylinder002
+    4300028: Cylinder003
+    4300030: Cylinder004
+    4300032: Cylinder005
+    4300034: Cylinder006
+    4300036: Cylinder007
+    4300038: Cylinder008
+    4300040: Cylinder009
+    4300042: Box012
+    4300044: Cylinder010
+    4300046: Cylinder011
+    4300048: Cylinder012
+    4300050: Tube002
+    4300052: Tube003
+    9500000: //RootNode
+    10800000: PhotometricLight001
+    10800002: PhotometricLight002
+    10800004: PhotometricLight003
+    10800006: PhotometricLight004
+    10800008: PhotometricLight005
+    10800010: PhotometricLight006
+    10800012: PhotometricLight007
+    10800014: PhotometricLight008
+    10800016: PhotometricLight009
+    10800018: PhotometricLight010
+    10800020: PhotometricLight011
+    10800022: PhotometricLight012
+    10800024: PhotometricLight013
+    10800026: PhotometricLight014
+    10800028: PhotometricLight015
+    10800030: PhotometricLight016
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
